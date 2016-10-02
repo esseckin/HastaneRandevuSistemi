@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
+C:\Users\Administrator\Desktop\proj\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+C:\Users\Administrator\Desktop\proj\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+C:\Users\Administrator\Desktop\proj\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
+C:\Users\Administrator\Desktop\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+C:\Users\Administrator\Desktop\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+C:\Users\Administrator\Desktop\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
+D:\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\bin\Debug\HastaneRandevuSistemi.exe.config
+D:\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.exe
+D:\alıstırmalar\projeler\HastaneRandevuSistemi\HastaneRandevuSistemi\obj\Debug\HastaneRandevuSistemi.pdb
